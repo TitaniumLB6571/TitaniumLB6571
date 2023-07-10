@@ -10,4 +10,4 @@ Currently working on private and public projects
 * 💬 Pronouns: daddy
 
 
-![TitaniumLB's GitHub stats][(https://github-readme-stats.vercel.app/api?username=TitaniumLB6571)](https://github.com/TitaniumLB6571/repositories)
+![TitaniumLB's GitHub stats](https://github-readme-stats.vercel.app/api?username=TitaniumLB6571&show_icons=true&theme=radical)
