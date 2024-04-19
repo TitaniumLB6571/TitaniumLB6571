@@ -2,7 +2,8 @@
 
 Currently working on private and public projects
 
-- ⚡ Experienced in PHP 
+- ⚡ Experienced in PHP
+- ⚡ Learning Vue 3
 - ⚡ Sort of experienced, but could improve in C# and Javascript
 - ⚡ Minimal experience in C++
 
