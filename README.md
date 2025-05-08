@@ -3,6 +3,7 @@
 Currently working on private and public projects
 
 - ⚡ Experienced in PHP
+- ⚡ Python Beginner
 - ⚡ Learning Vue 3
 - ⚡ Sort of experienced, but could improve in C# and Javascript
 - ⚡ Minimal experience in C++
