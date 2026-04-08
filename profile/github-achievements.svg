@@ -13,7 +13,7 @@
   </defs>
   <rect x="1" y="1" width="428" height="218" rx="18" fill="url(#bg2)" stroke="url(#accent2)" stroke-width="2"/>
   <text x="24" y="36" fill="#F0F6FC" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Achievements</text>
-  <text x="24" y="58" fill="#7EE787" font-family="Segoe UI, Arial, sans-serif" font-size="12">Pulled from the public profile page</text>
+  <text x="24" y="58" fill="#7EE787" font-family="Segoe UI, Arial, sans-serif" font-size="12">TitaniumLB6571</text>
 
   <rect x="24" y="76" width="382" height="32" rx="10" fill="#162033"/>
   <text x="38" y="97" fill="#F0F6FC" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">YOLO x2</text>
@@ -26,5 +26,4 @@
 
   <text x="24" y="172" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="12">Popular public repositories</text>
   <text x="24" y="192" fill="#F0F6FC" font-family="Segoe UI, Arial, sans-serif" font-size="13">TitanCommandSpy  •  OpenAPI  •  BasicEssentials</text>
-  <text x="24" y="208" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="11">Static card to avoid flaky third-party live embeds</text>
 </svg>

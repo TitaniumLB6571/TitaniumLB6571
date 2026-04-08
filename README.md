@@ -33,5 +33,3 @@ My background started heavily in PHP and the Minecraft / PocketMine ecosystem, a
   <img src="./profile/github-overview.svg" alt="GitHub overview for TitaniumLB6571" width="420" />
   <img src="./profile/github-achievements.svg" alt="GitHub achievements for TitaniumLB6571" width="420" />
 </p>
-
-Static cards for reliability. The old live stats embed was failing upstream.
