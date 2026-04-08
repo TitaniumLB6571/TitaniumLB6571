@@ -30,6 +30,6 @@ My background started heavily in PHP and the Minecraft / PocketMine ecosystem, a
 ## GitHub snapshot
 
 <p>
-  <img src="https://skill-deploy-lfbkm93yf7-codex-agent-deploys.vercel.app/api/overview?user=TitaniumLB6571" alt="GitHub overview for TitaniumLB6571" width="420" />
-  <img src="https://skill-deploy-lfbkm93yf7-codex-agent-deploys.vercel.app/api/achievements?user=TitaniumLB6571" alt="GitHub achievements for TitaniumLB6571" width="420" />
+  <img src="https://skill-deploy-vqfkc4lp9h-codex-agent-deploys.vercel.app/api/overview?user=TitaniumLB6571" alt="GitHub overview for TitaniumLB6571" width="420" />
+  <img src="https://skill-deploy-vqfkc4lp9h-codex-agent-deploys.vercel.app/api/achievements?user=TitaniumLB6571" alt="GitHub achievements for TitaniumLB6571" width="420" />
 </p>
