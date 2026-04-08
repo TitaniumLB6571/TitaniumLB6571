@@ -27,4 +27,11 @@ My background started heavily in PHP and the Minecraft / PocketMine ecosystem, a
 
 - Discord: `titaniumlb`
 
-![TitaniumLB's GitHub stats](https://github-readme-stats.vercel.app/api?username=TitaniumLB6571&show_icons=true&theme=radical)
+## GitHub snapshot
+
+<p>
+  <img src="./profile/github-overview.svg" alt="GitHub overview for TitaniumLB6571" width="420" />
+  <img src="./profile/github-achievements.svg" alt="GitHub achievements for TitaniumLB6571" width="420" />
+</p>
+
+Static cards for reliability. The old live stats embed was failing upstream.
