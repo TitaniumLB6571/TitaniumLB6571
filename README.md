@@ -19,6 +19,10 @@ I build practical tools for messy, real-world workflows: automating the boring p
 
 My roots are in **PHP and the Minecraft / PocketMine ecosystem**. These days, my work also spans Python, QGIS, JavaScript, Vue, C#, and AI pipelines.
 
+### Organization
+
+[![Monavilo — GitHub organization](./assets/monavilo.svg)](https://github.com/Monavilo)
+
 ## 02 / On my radar
 
 <img src="./assets/radar.svg" width="1000" alt="Animated radar. Current focus: reliable software for messy workflows, faster commercial classification and parcel review, and useful AI helpers." />
